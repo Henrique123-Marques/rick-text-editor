@@ -1,0 +1,1 @@
+web: gunicorn rich_text_editor.wsgi --log-file -
